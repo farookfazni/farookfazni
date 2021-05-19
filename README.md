@@ -12,7 +12,7 @@ I'm a Student, **Undergraduate**, **Developer**, and **Designer** 💻📘📘�
 
 😍 I am good at **React** , **Ionic-React** , **React Native** 😎
 
-🎈 I have done several projects on above framworks and **PHP**
+🎈 I have done several projects on above frameworks and **PHP**
 
 😊 I am currently learning **Python** and **TensorFlow** for my Future Projects
 
