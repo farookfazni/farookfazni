@@ -8,7 +8,7 @@ I'm a Student, **Undergraduate**, **Developer**, and **Designer** 💻📘📘�
 
 * 💻 I’m an Undergraduate of **Computer Science** at **Uva Wellassa University of Sri Lanka**
 
-* 😍 I’m looking to Collaborate with other developers on open source projects built with to **React**, **NodeJs**, **React Native**
+* 😍 I’m looking to Collaborate with other developers on open source projects built with to **React**, **NodeJs**, **React Native** and **Ionic-React**
 
 * 😍 I am good at **React** , **Ionic-React** , **React Native** 😎
 
