@@ -1,3 +1,5 @@
+# Hi there, I'm Farook Fazni 😍👋
+
 ![](https://komarev.com/ghpvc/?username=farookfazni&style=flat-square)
 
 
