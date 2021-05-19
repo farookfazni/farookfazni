@@ -1,4 +1,4 @@
-# Hi there, I'm Farook Fazni 😍👋
+# Hi there, I'm Farook Fazni 👋
 
 ![](https://komarev.com/ghpvc/?username=farookfazni&style=flat-square)
 
@@ -21,3 +21,7 @@ I'm a Student, **Undergraduate**, **Developer**, and **Designer** 💻📘📘�
 * 🎯 Goals: Contribute more to Open Source projects
 
 * 😎 You can contact me [LinkedIn](https://www.linkedin.com/in/farook-fazni-148b4612b/)👈
+
+
+
+
