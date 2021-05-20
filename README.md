@@ -24,4 +24,6 @@ I'm a Student, **Undergraduate**, **Developer**, and **Designer** 💻📘📘�
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farookfazni&layout=compact&theme=dark)](https://github.com/farookfazni/github-readme-stats)
+
 
