@@ -3,20 +3,18 @@
 ![](https://komarev.com/ghpvc/?username=farookfazni&style=flat-square)
 
 
-I'm a Student, **Undergraduate**, **Developer**, and **Designer** 💻📘📘📘
+I'm a Student, **AI/ML Engineer**, **Developer**, **Data Engineer**, and **Data Anlysist** 💻📘📘📘
 
 
-* 💻 I’m an Undergraduate of **Computer Science** at **Uva Wellassa University of Sri Lanka**
+* 💻 I’m an **AI/ML Engineer** at **Virtusa PVT Ltd**
 
-* 😍 I’m looking to Collaborate with other developers on open source projects built with to **React**, **NodeJs**, **React Native** and **Ionic-React**
+* 😍 I’m looking to Collaborate with other developers on open-source projects built with **Python**, **Machine Learning**, **Deep learning** and **Data Engineering**
 
-* 😍 I am good at **React** , **Ionic-React** , **React Native** 😎
+* 😍 I am good at **PySpark** , **Python** , **Transformers** 😎
+  
+* 😎 I have experience in **Azure Cloud Platform**. Tools I have used **Azure Synapse**, **Azure Machine Learning Studio**, **Azure Blob Storage** and more
 
-* 🎈 I have done several projects on above frameworks and **PHP**
-
-* 😊 I am currently learning **Python** and **TensorFlow** for my Future Projects
-
-* 😘 If anyone Like to help me with that stuff I will be greatful to them
+* 🎈 I have done several projects on the above frameworks
 
 * 🎯 Goals: Contribute more to Open Source projects
 
